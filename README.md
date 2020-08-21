@@ -22,5 +22,6 @@ I have been curious about coding since I was young. I believe that changing the 
 
 <br />
  
-![Profile views](https://gpvc.arturio.dev/cleopatradev)  
+![Profile views](https://gpvc.arturio.dev/cleopatradev)
+<br />
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cleopatradev&show_icons=true)
