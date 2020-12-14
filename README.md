@@ -3,7 +3,7 @@
 ### I'm student and developer.
 I have been curious about coding since I was young. I believe that changing the world passes without changing itself.
 
-* 🔭 I’m currently working on Lua, TypeScript, JS, Preact
+* 🔭 I’m currently working on JavaScript, TypeScript, Lua, Preact
 
 * 🌱 I’m currently learning C#, TypeScript, ReactNative
 
