@@ -3,11 +3,13 @@
 ### I'm student and developer.
 I have been curious about coding since I was young. I believe that changing the world passes without changing itself.
 
-* 🔭 I’m currently working on Lua
+* 🔭 I’m currently working on Lua, TypeScript, JS, Preact
 
-* 🌱 I’m currently learning C++, TypeScript, ReactNative
+* 🌱 I’m currently learning C#, TypeScript, ReactNative
 
 * 📫 How to reach me: enesakilliok17@gmail.com
+
+* 🌱 Languages I think I know: Lua, C++, TypeScript, JavaScript, C#
 
 ### Tools
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
