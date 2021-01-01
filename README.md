@@ -1,30 +1,89 @@
-## Hello there 👋, my name is Enes Akıllıok
 
-### I'm student and developer.
-I have been curious about coding since I was young. I believe that changing the world passes without changing itself.
-
-* 🔭 I’m currently working on JavaScript, TypeScript, Lua, Preact
-
-* 🌱 I’m currently learning C#, TypeScript, ReactNative
-
-* 📫 How to reach me: enesakilliok17@gmail.com
-
-* 🌱 Languages I think I know: Lua, C++, TypeScript, JavaScript, C#
-
-### Tools
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
+I'm Enes.
 <br />
- 
+InceptionNetwork
+<br />
+Student & Developer
+<br />
+Reach, mail to me: enesakilliok17@gmail.com
+<br />
+<br />
 ![Profile views](https://gpvc.arturio.dev/cleopatradev)
-<br />
-![Github stats](https://github-readme-stats.vercel.app/api?username=cleopatradev&show_icons=true)
+
+<a href="https://stuyk.com/">🏡 Personal Website</a> |
+<a href="https://youtube.com/stuyk">📺 Youtube</a> |
+<a href="https://twitch.tv/stuyksoft">🎥 Twitch</a> |
+<a href="https://linkedin.com/in/stuyk-trevor-wessel/">👔 LinkedIn</a> |
+<a href="https://patreon.com/stuyk/">💸 Patreon</a>
+
+### Milestones
+<h3>2015</h2>
+<details>
+  <summary>Expand</summary>
+  
+- Started learning to Lua
+</details>
+
+<h3>2016</h2>
+<details>
+  <summary>Expand</summary>
+
+- Learned MySQL
+
+- Learned HTML
+
+- Learned Some CSS
+
+- Learned a lot of Javascript
+</details>
+
+<h3>2017</h2>
+<details>
+  <summary>Expand</summary>
+
+- Learned OOP for Lua
+
+- Joined a InceptionNetwork
+
+</details>
+
+<h3>2018</h3>
+<details>
+  <summary>Expand</summary>
+ 
+ - anything
+
+</details>
+
+<h3>2019</h3>
+<details>
+  <summary>Expand</summary>
+ 
+ - Learned Websockets
+
+ - Learned REST
+
+ - Learned Express
+
+ - Learned Discord oAuth2 Implementation
+
+ - Learned PostgresSQL
+
+ - Learned MongoDB
+
+</details>
+
+<h3>2020</h2>
+<details>
+  <summary>Expand</summary>
+  
+- [Learned Preact](https://preactjs.com/)
+
+- [Learned Electron](https://www.electronjs.org/)
+
+- Learned TypeScript
+
+- Learned C++
+
+- Learned C#
+</details>
