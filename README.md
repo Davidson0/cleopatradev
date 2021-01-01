@@ -10,11 +10,9 @@ Reach, mail to me: enesakilliok17@gmail.com
 <br />
 ![Profile views](https://gpvc.arturio.dev/cleopatradev)
 
-<a href="https://stuyk.com/">🏡 Personal Website</a> |
-<a href="https://youtube.com/stuyk">📺 Youtube</a> |
-<a href="https://twitch.tv/stuyksoft">🎥 Twitch</a> |
-<a href="https://linkedin.com/in/stuyk-trevor-wessel/">👔 LinkedIn</a> |
-<a href="https://patreon.com/stuyk/">💸 Patreon</a>
+<a href="https://enesakilliok.com/">🏡 Personal Website</a> |
+<a href="https://www.youtube.com/channel/UC9DIP-xfqo3C8c19Pq1VaSQ">📺 Youtube</a> |
+<a href="https://tr.linkedin.com/in/enes-ak%C4%B1ll%C4%B1ok-0957981a1">👔 LinkedIn</a> |
 
 ### Milestones
 <h3>2015</h2>
