@@ -5,7 +5,7 @@ InceptionNetwork
 <br />
 Student & Developer
 <br />
-Reach, mail to me: enesakilliok17@gmail.com
+For business, mail to me: enesakilliok17@gmail.com
 <br />
 <br />
 ![Profile views](https://gpvc.arturio.dev/cleopatradev)
