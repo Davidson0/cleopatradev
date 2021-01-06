@@ -49,25 +49,24 @@ For business, mail to me: enesakilliok17@gmail.com
 <details>
   <summary>Expand</summary>
  
- - anything
+ - Learned Websockets
+
+ - Learned REST
 
 </details>
 
 <h3>2019</h3>
 <details>
   <summary>Expand</summary>
- 
- - Learned Websockets
 
- - Learned REST
-
- - Learned Express
+ - Learned Discord Rich Presence Integration
 
  - Learned Discord oAuth2 Implementation
 
  - Learned PostgresSQL
 
  - Learned MongoDB
+ 
 
 </details>
 
@@ -84,4 +83,8 @@ For business, mail to me: enesakilliok17@gmail.com
 - Learned C++
 
 - Learned C#
+ 
+- Learned Node.js
+ 
+- Learned MongoDB
 </details>
