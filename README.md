@@ -1,12 +1,6 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=light)
 
-I'm Enes.
-<br />
-InceptionNetwork
-<br />
-Student & Developer
-<br />
 For business, mail to me: enesakilliok17@gmail.com
-<br />
 <br />
 ![Profile views](https://gpvc.arturio.dev/cleopatradev)
 
