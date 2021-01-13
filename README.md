@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleopatradev&theme=light)
 
 For business, mail to me: enesakilliok17@gmail.com
 <br />
