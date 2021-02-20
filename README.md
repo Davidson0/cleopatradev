@@ -1,4 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleopatradev&theme=light)
+<div style="float: left;">
+  <img src="https://raw.githubusercontent.com/cleopatradev/profile-stats/2f4d629def55bc2ed0034cf05162719e940d4a8a/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/cleopatradev/profile-stats/2f4d629def55bc2ed0034cf05162719e940d4a8a/generated/overview.svg">
+</div>
 
 For business, mail to me: enesakilliok17@gmail.com
 <br />
